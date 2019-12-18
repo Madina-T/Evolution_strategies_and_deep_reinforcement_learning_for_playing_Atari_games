@@ -17,8 +17,6 @@ En revanche, si vous souhaitez entraîner vos propres intelligences artificielle
 
 ### Installations
 
-Tensorflow :
-```
 Tensorflow (version 1.14.0) :
 ```
 sudo python3.5 -m pip install tensorflow==1.14.0
