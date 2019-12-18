@@ -8,28 +8,28 @@ L'objet était premièrement de reproduire les résultats obtenus par Patryk Chr
 
 Pour faire tourner ce projet vous aurez besoin de :
 
-- Python 3.5 :
+Python 3.5
 
 ```
 sudo python3.5 get-pip.py
 ```
-- Tensorflow (version 1.14.0) :
+Tensorflow (version 1.14.0)
 ```
 python3.5 -m pip install tensorflow==1.14.0
 ```
-- natsort :
+natsort
 ```
 sudo python3.5 -m pip install natsort
 ```
-- mpi4py :
+mpi4py
 ```
 sudo apt-get install python3-mpi4py
 ```
-- gym[atari] :
+gym[atari]
 ```
 sudo python3.5 -m pip install gym[atari]
 ```
 
 ### Lancer les tests
 
-L'ensemble du code se trouve dans le Notebook intitulé projet.ipynb.
+
