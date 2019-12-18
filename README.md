@@ -13,7 +13,7 @@ Si vous souhaitez uniquement visualiser le comportement des intelligences artifi
 - natsort
 - gym[atari]
 
-En revanche, l'entraînement des intelligences artificielles nécessitant d'importantes ressources computationnelles, il vous faudra utiliser **Google Cloud Platform** (ou une plateforme similaire) et y créer une machine virtuelle si vous souhaitez réaliser vos propres entraînements.
+En revanche, l'entraînement des intelligences artificielles nécessitant d'importantes ressources computationnelles, il vous faudra utiliser **Google Cloud Platform** (ou une plateforme similaire) et y créer une machine virtuelle si vous souhaitez réaliser vos propres entraînements. Il vous faudra également installer le module mpi4py.
 
 ### Installations
 
