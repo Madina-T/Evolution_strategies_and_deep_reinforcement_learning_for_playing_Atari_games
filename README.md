@@ -4,15 +4,20 @@ Ce projet a été réalisé dans le cadre de l'UE IAR (Intelligence Artificielle
 
 L'objet était premièrement de reproduire les résultats obtenus par Patryk Chrabaszcz, Ilya Loshchilov et Frank Hutter dans l'article _Back to Basics: Benchmarking Canonical Evolution Strategies for Playing Atari_ avec un budget plus limité et des réseaux de neurones de plus petite taille que ceux utilisés par les auteurs. Il s'agissait dans un second temps d'étendre la comparaison OpenAI ES vs CanonicalES à d’autres algos ES tels que CEM ou CMA-ES.
 
-### Prérequis et installations
+### Prérequis
 
-Pour faire tourner ce projet vous aurez besoin de :
-<br>
-<br>
-Python 3.5 :
+Si vous souhaitez uniquement visualiser le comportement des intelligences artificielles entraînées sur les différents jeux Atari, vous aurez seulement besoin de :
 
-```
-sudo python3.5 get-pip.py
+- Python 3.5
+- tensorflow (version 1.14.0) 
+- natsort
+- gym[atari]
+
+En revanche, si vous souhaitez entraîner vos propres intelligences artificielles, il vous faudra utiliser **Google Cloud Platform** (ou une plateforme similaire) et y créer une machine virtuelle pour effectuer vos entraînements.
+
+### Installations
+
+Tensorflow :
 ```
 Tensorflow (version 1.14.0) :
 ```
