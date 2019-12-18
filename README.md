@@ -8,7 +8,7 @@ L'objet était premièrement de reproduire les résultats obtenus par Patryk Chr
 
 Pour faire tourner ce projet vous aurez besoin de :
 
-- python 3.5
+- Python 3.5
 - tensorflow (version 1.14.0)
 - natsort
 - python3-mpi4py
