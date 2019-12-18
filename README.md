@@ -7,8 +7,7 @@ L'objet était premièrement de reproduire les résultats obtenus par Patryk Chr
 ### Prérequis et installations
 
 Pour faire tourner ce projet vous aurez besoin de :
-
-
+<br>
 Python 3.5 :
 
 ```
