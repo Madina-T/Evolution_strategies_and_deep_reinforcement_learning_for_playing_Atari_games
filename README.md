@@ -16,7 +16,7 @@ sudo python3.5 get-pip.py
 ```
 Tensorflow (version 1.14.0) :
 ```
-python3.5 -m pip install tensorflow==1.14.0
+sudo python3.5 -m pip install tensorflow==1.14.0
 ```
 natsort :
 ```
